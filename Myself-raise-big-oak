@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About Me - Jack</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <div class="hero">
+      <h1>Hi, I'm Jack!</h1>
+      <p>Welcome to my personal webpage</p>
+    </div>
+  </header>
+
+  <section id="about">
+    <div class="section-content">
+      <h2>About Me</h2>
+      <p>I live at <strong>Big Oak Ranch - Boys' Ranch</strong>. I love to unicycle, play music, run, and help others in need. I'm passionate about using my talents to make a difference and bring joy to others.</p>
+    </div>
+  </section>
+
+  <section id="donations">
+    <h2>Donations</h2>
+    <div class="donor-list">
+      <div class="donor">
+        <img src="https://via.placeholder.com/100" alt="Donor Photo">
+        <p><strong>John Doe</strong> donated <strong>$500</strong></p>
+      </div>
+      <div class="donor">
+        <img src="https://via.placeholder.com/100" alt="Donor Photo">
+        <p><strong>Jane Smith</strong> donated <strong>$300</strong></p>
+      </div>
+      <div class="donor">
+        <img src="https://via.placeholder.com/100" alt="Donor Photo">
+        <p><strong>Sam Lee</strong> donated <strong>$200</strong></p>
+      </div>
+    </div>
+  </section>
+
+  <section id="counter">
+    <h2>Visitor Counter</h2>
+    <p>You are visitor number:</p>
+    <img src="https://www.cutercounter.com/hits.php?id=hrxpqca&nd=6&style=1" alt="Visitor Counter">
+  </section>
+
+  <section id="giving">
+    <h2>Support Big Oak Ranch</h2>
+    <p>If you'd like to support the mission of Big Oak Ranch and help boys like me grow and thrive, visit:</p>
+    <p><a href="https://bigoak.org/give/" target="_blank">Big Oak Ranch – Giving Page</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Jack</p>
+  </footer>
+</body>
+</html>
